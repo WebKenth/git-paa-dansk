@@ -26,7 +26,7 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 | stash       | stashe         | gemme         |
 | switch      | switche        | skifte        |
 | tag         | tagge          | opmærke       |
-| cherry-pick | cherry-picke   | håndplukke    |
+| cherry-pick | håndplukke     | kirsebær-pluk |
 | amend       | amende         | tilrette      |
 | blame       | blame          | klandre       |
 
@@ -52,7 +52,7 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 
     - Send lige en haleanmodning, når du er færdig med fletningen!
 
-    - Det håndplukker vi da bare fra udviklergrenen.
+    - Det kirsebær-plukker vi da bare fra udviklergrenen.
     
     - Hov, jeg tvangspuffede vistnok til hovedgrenen!
 
@@ -242,13 +242,13 @@ en reference til spidsen af en gren. Sat med versaler, `HOVED`, navnet på en be
 
 > Variablen `HOVED` peger normalt på et af hovederne i dit repos, medmindre den peger direkte på en fastlæggelse. Det kaldes »at arbejde med afhugget `HOVED`.«
 
-## håndplukke
+## kirsebær-pluk
 
 `BØJNING` -r, -de, -t  
-`GRAMMATIK` verbum, *nogen* håndplukker *nogle ændringer*   
+`GRAMMATIK` verbum, *nogen* kirsebær-pluk *nogle ændringer*   
 `ENGELSK` *cherry pick* vb. 
 
-> Jeg håndplukker 54ae13. Men resten må du lige refaktorisere inden jeg kigger på dem.
+> Jeg kirsebær-plukker 54ae13. Men resten må du lige refaktorisere inden jeg kigger på dem.
 
 ## indeks
 
